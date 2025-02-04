@@ -1,4 +1,4 @@
-Point of Sale (POS) Database in SQL
+# Point of Sale (POS) Database in SQL
 
 
 🚀 **A comprehensive SQL database solution for supermarket chains with multi-branch support**, designed to manage sales, inventory, employees, customers, suppliers, and financial reporting. This database serves as a robust backend for modern POS systems, supporting complex retail operations with advanced features like tax calculations, automated financial summaries, and real-time inventory tracking.
